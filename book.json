@@ -1,7 +1,7 @@
 {
-  "title": "python基础到进阶",
+  "title": "django-web基础到进阶",
   "author": "水痕",
-  "description": "一本通俗易懂的python基础到进阶教程",
+  "description": "自己总结django项目开发过程中的问题",
   "language": "zh-hans", 
   "gitbook": "3.2.3", 
   "styles": {
@@ -37,7 +37,7 @@
     "github-buttons": {
       "buttons": [{
         "user": "kuangshp",
-        "repo": "python-base",
+        "repo": "django-book",
         "type": "star",
         "size": "small",
         "count": true
