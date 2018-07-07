@@ -13,7 +13,7 @@
   * [8.django中模板传参](chapter01/8.md)
   * [9.django中模板继承的认识](chapter01/9.md)
   * [10.django中过滤器的认识](chapter01/10.md)
-  * [11.django中静态文件的使用](chapter01/11.md)
+  * [11.django中自定义过滤器](chapter01/11.md)
 
 * [第二章: Model的使用](chapter02/0.md)
   * [1.django中model的认识](chapter02/1.md)
