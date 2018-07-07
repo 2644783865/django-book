@@ -23,8 +23,9 @@
   * [5.单表的查询](chapter02/5.md)
   * [6.一对多表的操作](chapter02/6.md)
   * [7.多对多表的操作](chapter02/7.md)
-  * [8.使用pymongo连接mongodb数据库](chapter02/8.md)
-  * [9.django操作mongodb数据库](chapter02/9.md)
+  * [8.聚合函数的使用](chapter02/8.md)
+  * [9.使用pymongo连接mongodb数据库](chapter02/9.md)
+  * [10.django操作mongodb数据库](chapter02/10.md)
 
 * [第三章: admin的使用]()
 * [第四章: cookie和session的认识]()
