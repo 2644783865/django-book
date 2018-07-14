@@ -32,7 +32,9 @@
   * [1.关于cookie和session的认识](chapter04/1.md)
   * [2.使用cookie和session实现登录拦截](chapter04/2.md)
   <!-- * [3.现代框架开发过程中实现登录拦截](chapter04/3.md) -->
-* [第五章: ajax的使用]()
+* [第五章: ajax的使用](chapter05/0.md)
+  * [1.django中解析器的认识](chapter05/1.md)
+  * [2.使用ajax与服务器端数据交互](chapter05/2.md)
 * [第六章: 表单的使用]()
 * [第七章: 中间件的认识]()
 * [第八章: auth登录拦截]()
