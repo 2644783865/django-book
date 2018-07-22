@@ -44,7 +44,7 @@
   * [2.rest-framework权限的判断](chapter10/2.md)
   * [3.rest-framework访问频率的限制](chapter10/3.md)
   * [4.rest-framework版本控制](chapter10/4.md)
-  * [5.](chapter10/5.md)
+  * [5.rest-framework的解析器](chapter10/5.md)
   * [6.](chapter10/6.md)
   * [7.](chapter10/7.md)
   * [8.](chapter10/8.md)
