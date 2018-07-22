@@ -45,7 +45,7 @@
   * [3.rest-framework访问频率的限制](chapter10/3.md)
   * [4.rest-framework版本控制](chapter10/4.md)
   * [5.rest-framework的解析器](chapter10/5.md)
-  * [6.](chapter10/6.md)
+  * [6.rest-framework序列化](chapter10/6.md)
   * [7.](chapter10/7.md)
   * [8.](chapter10/8.md)
   * [1.](chapter10/0.md)
