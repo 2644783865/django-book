@@ -27,7 +27,11 @@
   * [9.使用mongoengine连接mongodb数据库](chapter02/9.md)
   * [10.django操作mongodb数据库](chapter02/10.md)
 
-* [第三章: admin的使用]()
+* [第三章: admin后台管理系统的使用](chapter03/0.md)
+  * [1.admin的基本配置](chapter03/1.md)
+  * [2.](chapter03/1.md)
+  * [3.](chapter03/1.md)
+  * [4.](chapter03/1.md)
 * [第四章: cookie和session的使用](chapter04/0.md)
   * [1.关于cookie和session的认识](chapter04/1.md)
   * [2.使用cookie和session实现登录拦截](chapter04/2.md)
