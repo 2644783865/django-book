@@ -14,6 +14,7 @@
   * [9.django中模板继承的认识](chapter01/9.md)
   * [10.django中过滤器的认识](chapter01/10.md)
   * [11.django中自定义过滤器](chapter01/11.md)
+  * [12.django开发中app统一管理](chapter01/12.md)
 
 * [第二章: Model的使用](chapter02/0.md)
   * [1.django中model的认识](chapter02/1.md)
@@ -30,7 +31,7 @@
 * [第三章: 后台管理系统](chapter03/0.md)
   * [1.admin的基本配置](chapter03/1.md)
   * [2.admin的基本使用](chapter03/2.md)
-  * [3.](chapter03/1.md)
+  * [3.xadmin的介绍及安装](chapter03/3.md)
   * [4.](chapter03/1.md)
 * [第四章: cookie和session的使用](chapter04/0.md)
   * [1.关于cookie和session的认识](chapter04/1.md)
