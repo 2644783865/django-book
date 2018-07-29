@@ -32,7 +32,8 @@
   * [1.admin的基本配置](chapter03/1.md)
   * [2.admin的基本使用](chapter03/2.md)
   * [3.xadmin的介绍及安装](chapter03/3.md)
-  * [4.](chapter03/1.md)
+  * [4.xadmin注册表](chapter03/4.md)
+  
 * [第四章: cookie和session的使用](chapter04/0.md)
   * [1.关于cookie和session的认识](chapter04/1.md)
   * [2.使用cookie和session实现登录拦截](chapter04/2.md)
