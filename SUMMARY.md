@@ -33,7 +33,7 @@
   * [2.admin的基本使用](chapter03/2.md)
   * [3.xadmin的介绍及安装](chapter03/3.md)
   * [4.xadmin注册表及基本配置](chapter03/4.md)
-  
+
 * [第四章: cookie和session的使用](chapter04/0.md)
   * [1.关于cookie和session的认识](chapter04/1.md)
   * [2.使用cookie和session实现登录拦截](chapter04/2.md)
@@ -43,7 +43,9 @@
   * [2.使用ajax与服务器端数据交互](chapter05/2.md)
 * [第六章: 表单的使用]()
 * [第七章: 中间件的认识]()
-* [第八章: auth登录拦截]()
+* [第八章: auth登录拦截](chapter08/0.md)
+  * [1.django中用户表](chapter08/1.md)
+  * [2.用户登录](chapter08/2.md)
 * [第九章: restfull规范](chapter09/0.md)
 * [第十章: rest-framework框架的使用](chapter10/0.md)
   * [1.rest-framework实现用户认证](chapter10/1.md)
@@ -61,4 +63,3 @@
   * [2.邮件的发送](chapter07/2.md)
   * [3.手机验证码](chapter07/3.md)
   * [4.上传图片](chapter07/4.md)
-
