@@ -48,6 +48,7 @@
 * [第八章: auth登录拦截](chapter08/0.md)
   * [1.django中用户表](chapter08/1.md)
   * [2.用户登录](chapter08/2.md)
+  * [3.用户注册](chapter08/3.md)
 * [第九章: restfull规范](chapter09/0.md)
 * [第十章: rest-framework框架的使用](chapter10/0.md)
   * [1.rest-framework实现用户认证](chapter10/1.md)
