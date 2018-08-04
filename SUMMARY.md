@@ -33,6 +33,7 @@
   * [2.admin的基本使用](chapter03/2.md)
   * [3.xadmin的介绍及安装](chapter03/3.md)
   * [4.xadmin注册表及基本配置](chapter03/4.md)
+  * [5.使用媒体文件](chapter03/5.md)
 
 * [第四章: cookie和session的使用](chapter04/0.md)
   * [1.关于cookie和session的认识](chapter04/1.md)
@@ -65,5 +66,6 @@
   * [1.验证码的开发(插件方式)](chapter11/1.md)
   * [2.验证码的开发(自定义)](chapter11/2.md)
   * [3.邮件的发送](chapter11/3.md)
-  * [3.手机验证码](chapter11/4.md)
-  * [4.上传图片](chapter11/5.md)
+  * [4.手机验证码](chapter11/4.md)
+  * [5.上传图片](chapter11/5.md)
+  * [6.分页的使用](chapter11/6.md)
