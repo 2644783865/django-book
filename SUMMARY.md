@@ -70,4 +70,5 @@
   * [3.邮件的发送](chapter11/3.md)
   * [4.手机验证码](chapter11/4.md)
   * [5.上传图片](chapter11/5.md)
-  * [6.分页的使用](chapter11/6.md)
+  * [6.七牛云服务器的使用](chapter11/6.md)
+  * [7.分页的使用](chapter11/6.md)
