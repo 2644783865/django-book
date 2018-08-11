@@ -35,6 +35,7 @@
   * [4.xadmin注册表及基本配置](chapter03/4.md)
   * [5.使用媒体文件](chapter03/5.md)
   * [6.关于xadmin设置的补充](chapter03/6.md)
+  * [7.插件的集成](chapter03/7.md)
 
 * [第四章: cookie和session的使用](chapter04/0.md)
   * [1.关于cookie和session的认识](chapter04/1.md)
