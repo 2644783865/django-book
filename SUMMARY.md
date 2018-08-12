@@ -65,6 +65,7 @@
   * [8.rest-framework视图](chapter10/8.md)
   * [9.rest-framework渲染器](chapter10/9.md)
   * [10.rest-framework过滤器](chapter10/10.md)
+  * [11.rest-framework项目的使用步骤](chapter10/11.md)
 * [第十一章: 第三方库的使用](chapter11/0.md)
   * [1.验证码的开发(插件方式)](chapter11/1.md)
   * [2.验证码的开发(自定义)](chapter11/2.md)
