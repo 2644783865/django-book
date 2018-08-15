@@ -27,6 +27,7 @@
   * [8.聚合函数的使用](chapter02/8.md)
   * [9.使用mongoengine连接mongodb数据库](chapter02/9.md)
   * [10.django操作mongodb数据库](chapter02/10.md)
+  * [11.django中返回json操作](chapter02/11.md)
 
 * [第三章: 后台管理系统](chapter03/0.md)
   * [1.admin的基本配置](chapter03/1.md)
