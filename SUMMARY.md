@@ -62,7 +62,7 @@
   * [4.rest-framework版本控制](chapter10/4.md)
   * [5.rest-framework的解析器](chapter10/5.md)
   * [6.rest-framework序列化](chapter10/6.md)
-  * [6.rest-framework数据校验](chapter10/7.md)
+  * [7.rest-framework数据校验](chapter10/7.md)
   * [8.rest-framework分页](chapter10/8.md)
   * [9.rest-framework视图](chapter10/9.md)
   * [10.rest-framework渲染器](chapter10/10.md)
