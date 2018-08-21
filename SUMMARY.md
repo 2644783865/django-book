@@ -52,7 +52,8 @@
 * [第七章: django的高级使用](chapter07/0.md)
   * [1.中间件的认识](chapter07/1.md)
   * [2.上下文的使用](chapter07/2.md)
-
+  * [3.装饰器](chapter07/3.md)
+  
 * [第八章: auth模块的使用](chapter08/0.md)
   * [1.auth模块的介绍](chapter08/1.md)
   * [2.扩展auth_user表](chapter08/2.md)
@@ -81,3 +82,4 @@
   * [5.文件上传](chapter11/5.md)
   * [6.七牛云服务器的使用](chapter11/6.md)
   * [7.分页的使用](chapter11/7.md)
+  * [8.使用滑动验证码](chapter11/8.md)
