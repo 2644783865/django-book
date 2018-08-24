@@ -83,3 +83,5 @@
   * [6.七牛云服务器的使用](chapter11/6.md)
   * [7.分页的使用](chapter11/7.md)
   * [8.使用滑动验证码](chapter11/8.md)
+* [第十二章: django项目发布](chapter12/0.md) 
+  * [1.django项目发布前工作](chapter12/1.md) 
