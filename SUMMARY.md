@@ -84,4 +84,5 @@
   * [7.分页的使用](chapter11/7.md)
   * [8.使用滑动验证码](chapter11/8.md)
 * [第十二章: django项目发布](chapter12/0.md) 
-  * [1.django项目发布前工作](chapter12/1.md) 
+  * [1.环境搭建](chapter12/1.md) 
+  * [2.项目准备](chapter12/2.md) 
