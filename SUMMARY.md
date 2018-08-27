@@ -85,4 +85,5 @@
   * [8.使用滑动验证码](chapter11/8.md)
 * [第十二章: django项目发布](chapter12/0.md) 
   * [1.环境搭建](chapter12/1.md) 
-  * [2.项目准备](chapter12/2.md) 
+  * [2.使用编辑器同步代码](chapter12/2.md) 
+  * [3.项目准备及项目发布](chapter12/3.md) 
