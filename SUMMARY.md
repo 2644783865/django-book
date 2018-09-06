@@ -55,7 +55,7 @@
   * [2.上下文的使用](chapter07/2.md)
   * [3.装饰器](chapter07/3.md)
   * [4.关于contenttypes的使用](chapter07/4.md)
-
+  * [5.redis缓存的使用](chapter07/5.md)
 
 * [第八章: auth模块的使用](chapter08/0.md)
   * [1.auth模块的介绍](chapter08/1.md)
