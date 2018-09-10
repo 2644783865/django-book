@@ -61,6 +61,7 @@
   * [7.redis缓存的使用](chapter07/7.md)
   * [8.关于session的使用](chapter07/8.md)
   * [9.csrf跨站请求](chapter07/9.md)
+  * [9.django的信号量](chapter07/10.md)
 
 * [第八章: auth模块的使用](chapter08/0.md)
   * [1.auth模块的介绍](chapter08/1.md)
