@@ -50,7 +50,7 @@
   * [1.创建一个表单](chapter06/1.md)
   * [2.ModelForm的使用](chapter06/2.md)
   * [3.Form的常用字段校验](chapter06/3.md)
-  
+
 * [第七章: django的高级使用](chapter07/0.md)
   * [1.中间件的认识](chapter07/1.md)
   * [2.中间件的使用一(设置跨域访问)](chapter07/2.md)
@@ -92,7 +92,8 @@
   * [6.七牛云服务器的使用](chapter11/6.md)
   * [7.分页的使用](chapter11/7.md)
   * [8.使用滑动验证码](chapter11/8.md)
-* [第十二章: django项目发布](chapter12/0.md) 
-  * [1.环境搭建](chapter12/1.md) 
-  * [2.使用编辑器同步代码](chapter12/2.md) 
-  * [3.项目准备及项目发布](chapter12/3.md) 
+* [第十二章: django项目发布](chapter12/0.md)
+  * [1.环境搭建](chapter12/1.md)
+  * [2.使用编辑器同步代码](chapter12/2.md)
+  * [3.项目准备及项目发布](chapter12/3.md)
+  * [4.使用PM2+nginx部署项目](chapter12/4.md) 
